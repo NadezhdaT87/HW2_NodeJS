@@ -1,0 +1,33 @@
+{
+  "name": "hw2_nodejs",
+  "version": "1.0.0",
+  "description": "Setting up VS Code for development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadezhdaT87/HW2_NodeJS.git"
+  },
+  "keywords": [
+    "HW2_NodeJS",
+    "setting"
+  ],
+  "author": "Nadezhda Tarasova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadezhdaT87/HW2_NodeJS/issues"
+  },
+  "homepage": "https://github.com/NadezhdaT87/HW2_NodeJS#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.12.0",
+    "eslint": "^9.12.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-react": "^7.37.1",
+    "globals": "^15.10.0"
+  },
+  "dependencies": {
+    "prettier": "^3.3.3"
+  }
+}
